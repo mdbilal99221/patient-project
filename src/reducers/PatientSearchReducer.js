@@ -2,7 +2,7 @@
 
 //const defaultState = { patients: [ {name:"Shiva", email:"s@.com"}, {name:"Sagar", email:"ss@.com"} ] };
 
-const defaultState = { patients: [], searchedPatients:[{name:"Leanne Graham",email:"Sincere@april.biz"}] };
+const defaultState = { patients: [], searchedPatients:[{name:"Md Bilal",email:"mdbilal@april.biz"}] };
     // fetch("https://jsonplaceholder.typicode.com/users")
     // .then(response => response.json())
     // .then(response => defaultState.patients = response 
@@ -10,15 +10,15 @@ const defaultState = { patients: [], searchedPatients:[{name:"Leanne Graham",ema
 
 
 defaultState.searchedPatients = 
-[{"name":"Leanne Graham","email":"Sincere@april.biz"}];
+[{"name":"Md Bilal","email":"mdbilal@april.biz"}];
 
 
 defaultState.patients = [
     {
       "id": 1,
-      "name": "Leanne Graham",
-      "username": "Bret",
-      "email": "Sincere@april.biz",
+      "name": "Md Bilal",
+      "username": "Bilal",
+      "email": "Mdbilal@april.biz",
       "address": {
         "street": "Kulas Light",
         "suite": "Apt. 556",
@@ -39,9 +39,9 @@ defaultState.patients = [
     },
     {
       "id": 2,
-      "name": "Ervin Howell",
-      "username": "Antonette",
-      "email": "Shanna@melissa.tv",
+      "name": "John",
+      "username": "johnette",
+      "email": "john@melissa.tv",
       "address": {
         "street": "Victor Plains",
         "suite": "Suite 879",
@@ -62,9 +62,9 @@ defaultState.patients = [
     },
     {
       "id": 3,
-      "name": "Clementine Bauch",
-      "username": "Samantha",
-      "email": "Nathan@yesenia.net",
+      "name": "cedrac navbauch",
+      "username": "satish",
+      "email": "vathan@yesenia.net",
       "address": {
         "street": "Douglas Extension",
         "suite": "Suite 847",
@@ -85,9 +85,9 @@ defaultState.patients = [
     },
     {
       "id": 4,
-      "name": "Ervin Lebsack",
-      "username": "Karianne",
-      "email": "Julianne.OConner@kory.org",
+      "name": "antony Ervin",
+      "username": "antony",
+      "email": "antony@kory.org",
       "address": {
         "street": "Hoeger Mall",
         "suite": "Apt. 692",
@@ -108,9 +108,9 @@ defaultState.patients = [
     },
     {
       "id": 5,
-      "name": "Chelsey Dietrich",
-      "username": "Kamren",
-      "email": "Lucio_Hettinger@annie.ca",
+      "name": "Triveni p",
+      "username": "triveni",
+      "email": "trivenip@annie.ca",
       "address": {
         "street": "Skiles Walks",
         "suite": "Suite 351",
@@ -131,9 +131,9 @@ defaultState.patients = [
     },
     {
       "id": 6,
-      "name": "Mrs. Dennis Schulist",
-      "username": "Leopoldo_Corkery",
-      "email": "Karley_Dach@jasper.info",
+      "name": "neha suresh",
+      "username": "neha",
+      "email": "neha@jasper.info",
       "address": {
         "street": "Norberto Crossing",
         "suite": "Apt. 950",
@@ -154,9 +154,9 @@ defaultState.patients = [
     },
     {
       "id": 7,
-      "name": "Kurtis Weissnat",
-      "username": "Elwyn.Skiles",
-      "email": "Telly.Hoeger@billy.biz",
+      "name": "darshan s",
+      "username": "darshan",
+      "email": "darshan@billy.biz",
       "address": {
         "street": "Rex Trail",
         "suite": "Suite 280",
@@ -177,9 +177,9 @@ defaultState.patients = [
     },
     {
       "id": 8,
-      "name": "Nicholas Runolfsdottir V",
-      "username": "Maxime_Nienow",
-      "email": "Sherwood@rosamond.me",
+      "name": "Nihal jaseem",
+      "username": "nihal",
+      "email": "nihal@rosamond.me",
       "address": {
         "street": "Ellsworth Summit",
         "suite": "Suite 729",
@@ -200,9 +200,9 @@ defaultState.patients = [
     },
     {
       "id": 9,
-      "name": "Clementina Reichert",
-      "username": "Delphine",
-      "email": "Chaim_McDermott@dana.io",
+      "name": "Reichert",
+      "username": "philipine",
+      "email": "philip@dana.io",
       "address": {
         "street": "Dayna Park",
         "suite": "Suite 449",
@@ -223,9 +223,9 @@ defaultState.patients = [
     },
     {
       "id": 10,
-      "name": "Clementina DuBuque",
-      "username": "Moriah.Stanton",
-      "email": "Rey.Padberg@karina.biz",
+      "name": "druv rathee",
+      "username": "druvv",
+      "email": "rathee@karina.biz",
       "address": {
         "street": "Kattie Turnpike",
         "suite": "Suite 198",
